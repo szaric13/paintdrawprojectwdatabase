@@ -1,0 +1,11 @@
+class PictureType {
+  constructor(name, pictureData, author) {
+    this.name = name;
+    this.pictureData = pictureData;
+    this.author = author;
+    this.createdAt = new Date();
+    this.updatedAt = new Date();
+  }
+}
+
+module.exports = PictureType;

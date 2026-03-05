@@ -1,0 +1,10 @@
+
+class AuthType {
+  constructor(userId, username, token) {
+    this.userId = userId;
+    this.username = username;
+    this.token = token;
+  }
+}
+
+module.exports = AuthType;
