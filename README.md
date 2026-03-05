@@ -1,2 +1,2 @@
 # paintdrawprojectwdatabase
-projekat, paint
+projekat, paint, middleware, javascript, database
